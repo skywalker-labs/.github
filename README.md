@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/skywalkerIntelligenceSystem"><img src="https://img.shields.io/badge/Organization-Verified-blue?style=for-the-badge&logo=github" alt="Verified Org"></a>
+  <a href="https://github.com/skywalker-labs"><img src="https://img.shields.io/badge/Organization-Verified-blue?style=for-the-badge&logo=github" alt="Verified Org"></a>
   <img src="https://img.shields.io/badge/Projects-50%2B%20Delivered-28E7FF?style=for-the-badge&logo=rocket&logoColor=black" alt="50+ Projects">
   <img src="https://img.shields.io/badge/Open--Source-15%2B%20Packages-FF2D20?style=for-the-badge&logo=packagist&logoColor=white" alt="15+ Packages">
   <a href="mailto:skywalkerlknw@gmail.com"><img src="https://img.shields.io/badge/Contact-Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us"></a>
@@ -254,13 +254,13 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
 ## :chart_with_upwards_trend: Activity & Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/output/github-contribution-grid-snake-dark.svg" alt="Skywalker Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/output/github-contribution-grid-snake-dark.svg" alt="Skywalker Contribution Snake" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/profile/stats.svg" alt="Skywalker Metrics" width="100%"/>
-<img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/skywalker_config/master/profile/top-langs.svg" alt="Skywalker Top Languages" width="100%"/>
+<img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/master/profile/stats.svg" alt="Skywalker Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/master/profile/top-langs.svg" alt="Skywalker Top Languages" width="100%"/>
 
 ---
 
@@ -269,16 +269,12 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
 Ready to architect, scale, or integrate intelligent systems into your digital infrastructure? Let's connect:
 
 <div align="center">
-  <a href="https://github.com/skywalkerIntelligenceSystem">
+  <a href="https://github.com/skywalker-labs">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:skywalkerlknw@gmail.com">
     <img src="https://img.shields.io/badge/Email-skywalkerlknw@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="mailto:contact@skywalker.system">
-    <img src="https://img.shields.io/badge/Email-contact@skywalker.system-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mradulsharma">
