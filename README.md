@@ -254,13 +254,14 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
 ## :chart_with_upwards_trend: Activity & Contribution Matrix
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/output/github-contribution-grid-snake-dark.svg" alt="Skywalker Contribution Snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/skywalker-labs/.github/output/github-contribution-grid-snake-dark.svg" alt="Skywalker Contribution Snake" width="100%"/>
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/master/profile/stats.svg" alt="Skywalker Metrics" width="100%"/>
-<img src="https://raw.githubusercontent.com/skywalker-labs/skywalker_config/master/profile/top-langs.svg" alt="Skywalker Top Languages" width="100%"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/skywalker-labs/.github/main/github-metrics.svg" alt="Skywalker Metrics" width="100%"/>
+</div>
 
 ---
 
@@ -274,7 +275,7 @@ Ready to architect, scale, or integrate intelligent systems into your digital in
   </a>
   &nbsp;
   <a href="mailto:skywalkerlknw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-skywalkerlknw@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Skywalker%20Labs-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mradulsharma">
