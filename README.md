@@ -258,15 +258,15 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ermradulsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=skywalker-labs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ermradulsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=skywalker-labs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ermradulsharma&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=skywalker-labs&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
