@@ -13,7 +13,7 @@
   &fontSize=52
   &fontColor=ffffff
   &fontAlign=50
-  &marginBottom=20px
+  &margin=20px
   &desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory
   &descSize=18
   &descAlign=50
