@@ -4,20 +4,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?
-  type=waving
-  &color=0:000000,100:0f172a
-  &height=300
-  &section=header
-  &text=Skywalker%20Labs
-  &fontSize=52
-  &fontColor=ffffff
-  &fontAlign=50
-  &margin=20px
-  &desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory
-  &descSize=18
-  &descAlign=50
-  &animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Labs&fontSize=52&fontColor=ffffff&fontAlign=50&desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=28E7FF&center=true&vCenter=true&width=850&lines=Skywalker+Labs+%E2%80%A2+High-Performance+R%26D+Laboratory;50%2B+Production+Projects+in+Laravel%2C+Vue%2C+React%2C+Node%2C+Next+%26+Python;15%2B+PHP+%26+Laravel+Open-Source+Packages;LLM+%26+NLP+Intelligence+%E2%80%A2+Microservices+%E2%80%A2+IAM+%E2%80%A2+WebSockets;Architecting+the+Future+of+Digital+Intelligence" alt="Typing SVG" />
