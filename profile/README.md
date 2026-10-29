@@ -1,8 +1,4 @@
 <!-- markdownlint-disable MD033 -->
-
-# :milky_way: Skywalker Labs
-
-<!-- Profile Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Labs&fontSize=52&fontColor=ffffff&fontAlign=50&margin=20px&desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
   
