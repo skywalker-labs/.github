@@ -257,10 +257,16 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
   <img src="https://raw.githubusercontent.com/skywalker-labs/.github/output/github-contribution-grid-snake-dark.svg" alt="Skywalker Contribution Snake" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ermradulsharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ermradulsharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skywalker-labs/.github/main/github-metrics.svg" alt="Skywalker Metrics" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=ermradulsharma&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
