@@ -26,7 +26,10 @@
 
 ## :busts_in_silhouette: Who We Are — Skywalker Labs: High-Performance R&D & Software Engineering
 
-**Skywalker Labs** is an advanced software engineering laboratory, specialized research and development (R&D) powerhouse, and the primary innovation engine behind the **Skywalker Intelligence System**.
+**Skywalker Labs** is an advanced software engineering laboratory and open-source research powerhouse behind the **Skywalker Intelligence System**. We architect mission-critical infrastructure, enterprise Laravel packages, and applied AI systems.
+
+> 📦 **Official Open-Source Hub:** [github.com/skywalker-labs](https://github.com/skywalker-labs)  
+> 👨‍💻 **Founder & Chief Systems Architect:** [Er. Mradul Sharma](https://linkedin.com/in/mradulsharma) ([@ermradulsharma](https://github.com/ermradulsharma))
 
 We are not a traditional development agency, outsourced vendor, or body-shop. We operate as a **High-Performance Engineering Laboratory** created to eliminate shallow engineering, reject fragile codebases, and architect **Digital Sovereignty** for organizations that demand absolute precision, resilience, and applied intelligence.
 
