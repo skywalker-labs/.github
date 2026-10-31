@@ -1,16 +1,20 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Labs&fontSize=52&fontColor=ffffff&fontAlign=50&margin=20px&desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
+  <a href="https://github.com/skywalker-labs">
+    <img src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/.github/main/assets/banner.png" alt="Skywalker Labs - Engineering Mission - Critical Infrastructure" width="100%" />
+  </a>
+  
+  <br/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=28E7FF&center=true&vCenter=true&width=850&lines=Skywalker+Labs+%E2%80%A2+High-Performance+R%26D+Laboratory;50%2B+Production+Projects+in+Laravel%2C+Vue%2C+React%2C+Node%2C+Next+%26+Python;15%2B+PHP+%26+Laravel+Open-Source+Packages;LLM+%26+NLP+Intelligence+%E2%80%A2+Microservices+%E2%80%A2+IAM+%E2%80%A2+WebSockets;Architecting+the+Future+of+Digital+Intelligence" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=28E7FF&center=true&vCenter=true&width=850&lines=Skywalker+Labs+%E2%80%A2+High-Performance+R%26D+Laboratory;50%2B+Production+Projects+in+Laravel%2C+Vue%2C+React%2C+Node%2C+Next+%26+Python;16%2B+PHP+%26+Laravel+Open-Source+Packages;LLM+%26+NLP+Intelligence+%E2%80%A2+Microservices+%E2%80%A2+IAM+%E2%80%A2+WebSockets;Architecting+the+Future+of+Digital+Intelligence" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://github.com/skywalker-labs"><img src="https://img.shields.io/badge/Organization-Verified-blue?style=for-the-badge&logo=github" alt="Verified Org"></a>
   <img src="https://img.shields.io/badge/Projects-50%2B%20Delivered-28E7FF?style=for-the-badge&logo=rocket&logoColor=black" alt="50+ Projects">
-  <img src="https://img.shields.io/badge/Open--Source-15%2B%20Packages-FF2D20?style=for-the-badge&logo=packagist&logoColor=white" alt="15+ Packages">
+  <img src="https://img.shields.io/badge/Open--Source-16%2B%20Packages-FF2D20?style=for-the-badge&logo=packagist&logoColor=white" alt="16+ Packages">
   <a href="mailto:skywalkerlknw@gmail.com"><img src="https://img.shields.io/badge/Contact-Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us"></a>
 </p>
 
@@ -32,8 +36,8 @@ At our core, we believe that software is not merely a utility—it is the centra
 - 🌐 **Polyglot Systems Mastery**:  
   We don't confine ourselves to single-stack limitations. Skywalker Labs operates fluently across polyglot ecosystems—from high-throughput backend runtimes (**Laravel**, **CodeIgniter**, **Node.js/Express**, **Python**) and reactive frontend applications (**Next.js**, **React.js**, **Vue.js**, **JavaScript**, **jQuery**, **AJAX**) to distributed cloud and polyglot database clusters (**AWS**, **PostgreSQL**, **MySQL**, **MongoDB**, **SQLite**).
 
-- 📦 **Open-Source Stewards (15+ Packages)**:  
-  We actively contribute to the global software ecosystem. Skywalker Labs has created and published **15+ open-source PHP and Laravel packages**, engineering modular, plug-and-play components, authentication helpers, and developer utilities utilized by software teams worldwide.
+- 📦 **Open-Source Stewards (16+ Packages)**:  
+  We actively contribute to the global software ecosystem. Skywalker Labs has created and published **16+ open-source PHP and Laravel packages**, engineering modular, plug-and-play components, authentication helpers, and developer utilities utilized by software teams worldwide.
 
 - 🚀 **Proven Production Pedigree (50+ Projects)**:  
   Our pedigree is measured in production scale, not theoretical claims. With **50+ end-to-end projects** delivered, our systems power high-concurrency commercial platforms, real-time microservices, developer tooling, and autonomous AI pipelines.
@@ -58,8 +62,8 @@ We architect and deploy production web platforms designed to withstand immense t
 - **Modern Reactive Frontends**: Creating responsive, high-performance user interfaces using **Next.js**, **React.js**, and **Vue.js**, paired with fundamental mastery of **JavaScript (ES6+)**, **jQuery**, and asynchronous **AJAX** data flows for seamless UX.
 - **SaaS & Multi-Tenant Solutions**: Designing modular multi-tenant systems featuring isolated databases, automated tenant provisioning, dynamic routing, and subscription engines.
 
-#### 2. Open-Source Package Authoring & Tooling (15+ PHP / Laravel Packages)
-Skywalker Labs is dedicated to the open-source philosophy. We author and maintain **15+ specialized open-source PHP & Laravel packages** that solve real developer friction:
+#### 2. Open-Source Package Authoring & Tooling (16+ PHP / Laravel Packages)
+Skywalker Labs is dedicated to the open-source philosophy. We author and maintain **16+ specialized open-source PHP & Laravel packages** that solve real developer friction:
 - **Modular Architecture**: Decoupled, reusable packages following strict **PSR standards** for rapid integration into any modern PHP codebase.
 - **Utility & Security Foundations**: Custom packages covering granular authorization matrices, API response formatters, session management, and database query optimization.
 - **Developer Ergonomics (DX)**: Providing clear API contracts, zero-configuration defaults, thorough automated test suites, and extensive documentation.
@@ -179,8 +183,8 @@ Our engineering journey is not merely about writing code, but about achieving en
   - **Performance & Scale**: Achieved **sub-10ms response times** across thousands of active concurrent connections, powering real-time trading feeds, live collaborative interfaces, telemetry streams, and synchronized executive monitoring dashboards.
 
 #### 📦 2. Open-Source Authority
-- **15+ Published Framework Packages (PHP / Laravel Ecosystem)**:
-  - **Architecture & Execution**: Authored, published, and actively maintain **15+ specialized open-source packages** registered on Packagist for the global developer community. Addressed foundational enterprise development hurdles by creating plug-and-play modules for automated authentication flows, complex dynamic form generation, cryptographic token validation, and custom database query caching facades.
+- **16+ Published Framework Packages (PHP / Laravel Ecosystem)**:
+  - **Architecture & Execution**: Authored, published, and actively maintain **16+ specialized open-source packages** registered on Packagist for the global developer community. Addressed foundational enterprise development hurdles by creating plug-and-play modules for automated authentication flows, complex dynamic form generation, cryptographic token validation, and custom database query caching facades.
   - **Quality & Standards Compliance**: Every package is crafted following strict **PSR standards (PSR-1, PSR-4, PSR-12)**, adheres strictly to semantic versioning (SemVer), and includes zero-overhead installation configurations for seamless Composer integration.
 - **100% Automated Test-Driven Ecosystem Compatibility**:
   - **Engineering Standards**: Implemented continuous automated CI/CD validation matrices testing against multiple PHP runtimes (PHP 8.1, 8.2, 8.3+) and major Laravel release versions (v9, v10, v11+).
@@ -269,7 +273,7 @@ Code without a hardened runtime is merely text. We anchor our deployments on the
 
 ### 📦 2. Production & Open-Source Code Standards
 
-Whether publishing our **15+ open-source PHP & Laravel packages** or deploying mission-critical enterprise systems, our engineering adheres to rigorous quality benchmarks:
+Whether publishing our **16+ open-source PHP & Laravel packages** or deploying mission-critical enterprise systems, our engineering adheres to rigorous quality benchmarks:
 
 #### 📐 Architectural Decoupling & Modular PSR Compliance
 - **Strict Standards Adherence**: Full compliance with PHP-FIG standards (**PSR-1, PSR-4 autoloading, PSR-7 HTTP messaging, and PSR-12 code style**), **PEP 8** for Python, and strict **ESLint / Prettier** rules for JavaScript and TypeScript.
