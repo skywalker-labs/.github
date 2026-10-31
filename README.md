@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Labs&fontSize=52&fontColor=ffffff&fontAlign=50&desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=300&section=header&text=Skywalker%20Labs&fontSize=52&fontColor=ffffff&fontAlign=50&margin=20px&desc=Skywalker%20Intelligence%20System%20%7C%20High-Performance%20R%26amp%3BD%20Laboratory&descSize=18&descAlign=50&animation=fadeIn" alt="Skywalker Labs Banner" width="100%"/>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&pause=1000&color=28E7FF&center=true&vCenter=true&width=850&lines=Skywalker+Labs+%E2%80%A2+High-Performance+R%26D+Laboratory;50%2B+Production+Projects+in+Laravel%2C+Vue%2C+React%2C+Node%2C+Next+%26+Python;15%2B+PHP+%26+Laravel+Open-Source+Packages;LLM+%26+NLP+Intelligence+%E2%80%A2+Microservices+%E2%80%A2+IAM+%E2%80%A2+WebSockets;Architecting+the+Future+of+Digital+Intelligence" alt="Typing SVG" />
@@ -113,7 +113,7 @@ We deploy resilient, self-healing cloud infrastructure hardened on **Amazon Web 
 | **Backend & Frameworks** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Frontend & UI** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/AJAX-28E7FF?style=flat-square&logo=databricks&logoColor=black) |
 | **AI, LLM & NLP** | ![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blueviolet?style=flat-square&logo=openai&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00B4D8?style=flat-square&logo=themodelsresource&logoColor=white) ![AI](https://img.shields.io/badge/AI-Autonomous%20Systems-9D4EDD?style=flat-square&logo=probot&logoColor=white) ![Python AI](https://img.shields.io/badge/Python-AI%20%26%20Data-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Architecture & Security** | ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square&logo=diagram-next&logoColor=white) ![IAM](https://img.shields.io/badge/Security-Identity%20%26%20Access%20Management%20(IAM)-red?style=flat-square&logo=auth0&logoColor=white) ![WebSocket](https://img.shields.io/badge/Real--Time-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Architecture & Security** | ![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange?style=flat-square&logo=diagram-next&logoColor=white) ![IAM](https://img.shields.io/badge/Security-Identity%20%26%20Access%20Management%20%28IAM%29-red?style=flat-square&logo=auth0&logoColor=white) ![WebSocket](https://img.shields.io/badge/Real--Time-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 | **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
 
@@ -244,6 +244,18 @@ Whether publishing our **15+ open-source PHP & Laravel packages** or deploying m
 #### 📊 Telemetry, Structured Observability & SemVer Integrity
 - **Distributed Observability**: Structured JSON logging, distributed tracing across microservice boundaries, centralized APM monitoring, and automated alarm thresholds for instantaneous root-cause analysis.
 - **Semantic Versioning (SemVer)**: Absolute respect for API stability and backward compatibility. No breaking changes are introduced without formal deprecation cycles and migration paths.
+
+---
+
+## :chart_with_upwards_trend: Activity & Contribution Pulse
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/.github/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/.github/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/skywalkerIntelligenceSystem/.github/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 

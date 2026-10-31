@@ -1,0 +1,37 @@
+name: "✨ Feature Request"
+description: "Propose a new feature, improvement, or architectural enhancement."
+title: "[Feature]: "
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for suggesting an enhancement to Skywalker Labs architectures!
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement / Motivation
+      description: Is your feature request related to a problem or developer friction?
+      placeholder: Describe the friction or architectural limitation...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed Solution
+      description: Describe the solution you'd like to see implemented.
+      placeholder: Detail the API design, architecture, or behavior...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives Considered
+      description: Any alternative solutions or workarounds you've considered.
+      placeholder: List any alternatives...
+    validations:
+      required: false
+
