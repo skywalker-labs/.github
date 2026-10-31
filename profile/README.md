@@ -309,21 +309,47 @@ Whether publishing our **16+ open-source PHP & Laravel packages** or deploying m
 
 ---
 
+## :man_technologist: Engineering Leadership & Architecture
+
+<div align="center">
+  <p>
+    <b>Architected & Stewarded by <a href="https://github.com/ermradulsharma">Er. Mradul Sharma</a></b><br/>
+    <i>Founder & Chief Systems Architect • Skywalker Labs / Skywalker Intelligence System</i>
+  </p>
+  <p>
+    <a href="https://github.com/ermradulsharma"><img src="https://img.shields.io/badge/GitHub-@ermradulsharma-181717?style=flat-square&logo=github" alt="Founder GitHub" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/mradulsharma"><img src="https://img.shields.io/badge/LinkedIn-Mradul%20Sharma-0077B5?style=flat-square&logo=linkedin" alt="Founder LinkedIn" /></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/company/skywalker-labs"><img src="https://img.shields.io/badge/LinkedIn-Skywalker%20Labs-0A66C2?style=flat-square&logo=linkedin" alt="Company LinkedIn" /></a>
+  </p>
+</div>
+
+---
+
 ## :handshake: Connect With Us
 
 Ready to architect, scale, or integrate intelligent systems into your digital infrastructure? Let's connect:
 
 <div align="center">
   <a href="https://github.com/skywalker-labs">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Skywalker%20Labs-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Skywalker Labs GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:skywalkerlknw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Skywalker%20Labs-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/ermradulsharma">
+    <img src="https://img.shields.io/badge/GitHub-Mradul%20Sharma-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="Er. Mradul Sharma GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/company/skywalker-labs">
+    <img src="https://img.shields.io/badge/LinkedIn-Skywalker%20Labs-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Skywalker Labs LinkedIn" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/mradulsharma">
-    <img src="https://img.shields.io/badge/LinkedIn-Mradul%20Sharma-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mradul%20Sharma-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mradul Sharma LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:skywalkerlknw@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Skywalker Labs" />
   </a>
 </div>
 
