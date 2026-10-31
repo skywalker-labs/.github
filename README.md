@@ -24,7 +24,7 @@
 
 ---
 
-## :busts_in_silhouette: Who We Are
+## :busts_in_silhouette: Skywalker Labs: High-Performance R&D & Software Engineering
 
 **Skywalker Labs** is an advanced software engineering laboratory, specialized research and development (R&D) powerhouse, and the primary innovation engine behind the **Skywalker Intelligence System**.
 
@@ -54,7 +54,7 @@ At our core, we believe that software is not merely a utility—it is the centra
 
 ---
 
-## :hammer_and_wrench: What We Do
+## :hammer_and_wrench: Skywalker Labs Software Engineering & Core Domains
 
 At **Skywalker Labs**, we engineer complete, scalable, and resilient digital architectures. We do not just build isolated apps—we construct end-to-end technological foundations that encompass high-load backend runtimes, reactive user interfaces, enterprise security, real-time data streaming, and applied machine intelligence.
 
@@ -129,7 +129,7 @@ We deploy resilient, self-healing cloud infrastructure hardened on **Amazon Web 
 
 ---
 
-## :package: Open-Source Ecosystem & Featured Packages
+## :package: Skywalker Labs Open-Source Packages & Framework Ecosystem
 
 Skywalker Labs authors, maintains, and contributes to a robust portfolio of **16+ production-grade open-source packages** and developer tools engineered to eliminate friction, harden zero-trust security, and scale modern web applications:
 
@@ -171,7 +171,7 @@ Skywalker Labs authors, maintains, and contributes to a robust portfolio of **16
 
 ---
 
-### 🏆 Blueprint: Engineering Milestones
+### 🏆 Skywalker Labs Technical Milestones & Scaling Blueprint
 
 Our engineering journey is not merely about writing code, but about achieving enterprise-grade reliability, fault tolerance, and massive production-scale throughput. Our defining technical milestones include:
 
@@ -212,7 +212,7 @@ Our engineering journey is not merely about writing code, but about achieving en
 
 ---
 
-## :telescope: Our Mission & Vision
+## :telescope: Skywalker Labs Mission, Vision & Digital Sovereignty
 
 > **"In a digital world drowning in noise, we engineer the signal."**
 
@@ -250,7 +250,7 @@ We call this the **"Complexity Paradox"**: *The more capable software becomes, t
 
 ---
 
-## :atom_symbol: Engineering Philosophy & Standards
+## :atom_symbol: Skywalker Labs Engineering Philosophy & Code Standards
 
 Our engineering culture rejects shortcuts, superficial abstractions, and temporary duct-tape solutions. At **Skywalker Labs**, every system we architect is treated as enduring institutional infrastructure. Our work is strictly anchored by two foundational pillars: **The Triad of Excellence** and our **Uncompromising Code & Operational Standards**.
 
@@ -309,7 +309,7 @@ Whether publishing our **16+ open-source PHP & Laravel packages** or deploying m
 
 ---
 
-## :man_technologist: Engineering Leadership & Architecture
+## :man_technologist: Skywalker Labs Leadership & Architecture
 
 <div align="center">
   <p>
@@ -319,6 +319,8 @@ Whether publishing our **16+ open-source PHP & Laravel packages** or deploying m
   <p>
     <a href="https://github.com/ermradulsharma"><img src="https://img.shields.io/badge/GitHub-@ermradulsharma-181717?style=flat-square&logo=github" alt="Founder GitHub" /></a>
     &nbsp;
+    <a href="https://mradulsharma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mradulsharma.vercel.app-000000?style=flat-square&logo=vercel" alt="Founder Website" /></a>
+    &nbsp;
     <a href="https://linkedin.com/in/mradulsharma"><img src="https://img.shields.io/badge/LinkedIn-Mradul%20Sharma-0077B5?style=flat-square&logo=linkedin" alt="Founder LinkedIn" /></a>
     &nbsp;
     <a href="https://www.linkedin.com/company/skywalker-labs"><img src="https://img.shields.io/badge/LinkedIn-Skywalker%20Labs-0A66C2?style=flat-square&logo=linkedin" alt="Company LinkedIn" /></a>
@@ -327,7 +329,7 @@ Whether publishing our **16+ open-source PHP & Laravel packages** or deploying m
 
 ---
 
-## :handshake: Connect With Us
+## :handshake: Connect With Skywalker Labs
 
 Ready to architect, scale, or integrate intelligent systems into your digital infrastructure? Let's connect:
 
@@ -346,6 +348,10 @@ Ready to architect, scale, or integrate intelligent systems into your digital in
   &nbsp;
   <a href="https://linkedin.com/in/mradulsharma">
     <img src="https://img.shields.io/badge/LinkedIn-Mradul%20Sharma-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mradul Sharma LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://mradulsharma.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-mradulsharma-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Founder Website" />
   </a>
   &nbsp;
   <a href="mailto:skywalkerlknw@gmail.com">
