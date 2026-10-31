@@ -18,6 +18,10 @@
   <a href="mailto:skywalkerlknw@gmail.com"><img src="https://img.shields.io/badge/Contact-Us-critical?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Us"></a>
 </p>
 
+<div align="center">
+  <h3>High-Performance Software Engineering Lab • Open-Source Laravel Packages • Applied AI & Zero-Trust Architecture</h3>
+</div>
+
 ---
 
 ## :busts_in_silhouette: Who We Are
@@ -133,37 +137,37 @@ Skywalker Labs authors, maintains, and contributes to a robust portfolio of **16
 
 | Package | Tech Stack | Architecture & Capabilities |
 | :--- | :--- | :--- |
-| **[laraguard](https://github.com/skywalker-labs/laraguard)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-10%2F11-FF2D20?style=flat-square) | Enterprise Two-Factor Authentication (2FA/MFA) engine supporting TOTP, HOTP, backup codes, and zero-config middleware. |
-| **[passwordless](https://github.com/skywalker-labs/passwordless)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-Auth-FF2D20?style=flat-square) | Seamless passwordless authentication for Laravel, powering cryptographically signed magic links and one-time passcodes. |
-| **[entrust](https://github.com/skywalker-labs/entrust)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![RBAC](https://img.shields.io/badge/Security-RBAC-red?style=flat-square) | Modernized Role-Based Access Control (RBAC) package for Laravel with granular roles, permissions, and Blade directives. |
-| **[impersonate](https://github.com/skywalker-labs/impersonate)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-Auth-FF2D20?style=flat-square) | Safe user impersonation engine for Laravel, enabling support teams and super-admins to authenticate as users with full audit trails. |
-| **[constant-time-encoding](https://github.com/skywalker-labs/constant-time-encoding)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![Security](https://img.shields.io/badge/Crypto-Constant--Time-blue?style=flat-square) | RFC 4648 compliant constant-time character encoding & decoding (Base32, Base64, Hex) resistant to side-channel cache-timing attacks. |
+| **[laraguard](https://github.com/skywalker-labs/laraguard)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-10%2F11-FF2D20?style=flat-square) | **Best open-source 2FA security package for Laravel enterprise applications** — supports TOTP, HOTP, recovery backup codes, and zero-config middleware protection. |
+| **[passwordless](https://github.com/skywalker-labs/passwordless)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-Auth-FF2D20?style=flat-square) | **Modern passwordless authentication for Laravel** — cryptographically signed magic links, email OTPs, and zero-trust login workflows without password friction. |
+| **[entrust](https://github.com/skywalker-labs/entrust)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![RBAC](https://img.shields.io/badge/Security-RBAC-red?style=flat-square) | **High-performance Role-Based Access Control (RBAC) & permissions management** for Laravel 10, 11 & 12 with granular roles, middleware enforcement, and Blade directives. |
+| **[impersonate](https://github.com/skywalker-labs/impersonate)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![Laravel](https://img.shields.io/badge/Laravel-Auth-FF2D20?style=flat-square) | **Secure user impersonation package for Laravel** — allows super-admins and support engineers to safely authenticate as users with full audit logging and instant restore. |
+| **[constant-time-encoding](https://github.com/skywalker-labs/constant-time-encoding)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![Security](https://img.shields.io/badge/Crypto-Constant--Time-blue?style=flat-square) | **RFC 4648 constant-time character encoding & decoding** (Base32, Base64, Hex) — engineered for cryptographic operations to eliminate side-channel cache-timing attacks. |
 
 ### 🎨 Frontend, Reactive UI & Form Engines
 
 | Package | Tech Stack | Architecture & Capabilities |
 | :--- | :--- | :--- |
-| **[laravel-livewire-tables](https://github.com/skywalker-labs/laravel-livewire-tables)** | ![Livewire](https://img.shields.io/badge/Livewire-v3-FB70A9?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square) | Reactive datatable engine for Laravel Livewire featuring multi-column search, dynamic sorting, column filters, and exports. |
-| **[formcraft](https://github.com/skywalker-labs/formcraft)** | ![Blade](https://img.shields.io/badge/Blade-Engine-F05340?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square) | Fluent schema-driven HTML form generator for Laravel with automatic CSRF injection, validation state binding, and responsive skins. |
-| **[ui](https://github.com/skywalker-labs/ui)** | ![Blade](https://img.shields.io/badge/Blade-Components-F05340?style=flat-square) ![Alpine](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square) | Enterprise UI design system and pre-built Blade component library engineered for rapid SaaS dashboard development. |
-| **[qr-code](https://github.com/skywalker-labs/qr-code)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![SVG](https://img.shields.io/badge/Format-SVG%2FPNG-orange?style=flat-square) | Fluent QR code generation engine for PHP and Laravel with customizable error-correction levels, color gradients, and logo embeds. |
+| **[laravel-livewire-tables](https://github.com/skywalker-labs/laravel-livewire-tables)** | ![Livewire](https://img.shields.io/badge/Livewire-v3-FB70A9?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square) | **Reactive datatable component engine for Laravel Livewire 3** — real-time multi-column searching, dynamic sorting, column filters, and high-volume data exports. |
+| **[formcraft](https://github.com/skywalker-labs/formcraft)** | ![Blade](https://img.shields.io/badge/Blade-Engine-F05340?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square) | **Fluent schema-driven HTML form builder for Laravel** — automated CSRF protection, validation error binding, and responsive Tailwind CSS/Bootstrap styling. |
+| **[ui](https://github.com/skywalker-labs/ui)** | ![Blade](https://img.shields.io/badge/Blade-Components-F05340?style=flat-square) ![Alpine](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square) | **Enterprise UI component library & SaaS design system** for Laravel Blade, Alpine.js & Tailwind CSS, accelerating modern web dashboard engineering. |
+| **[qr-code](https://github.com/skywalker-labs/qr-code)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![SVG](https://img.shields.io/badge/Format-SVG%2FPNG-orange?style=flat-square) | **High-speed QR code generator for PHP & Laravel applications** — customizable SVG/PNG outputs, high error-correction levels, custom color palettes, and logo embeds. |
 
 ### 🛠️ Developer Tooling, Core Framework & SEO
 
 | Package | Tech Stack | Architecture & Capabilities |
 | :--- | :--- | :--- |
-| **[log-viewer](https://github.com/skywalker-labs/log-viewer)** | ![Laravel](https://img.shields.io/badge/Laravel-Logs-FF2D20?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-Dashboard-38B2AC?style=flat-square) | Modern web GUI dashboard for real-time Laravel log inspection, stack trace debugging, full-text searching, and RBAC control. |
-| **[toolkit](https://github.com/skywalker-labs/toolkit)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![PSR-4](https://img.shields.io/badge/PSR-4%20Standard-blue?style=flat-square) | Foundational architectural utility belt for Laravel containing standardized API response facades, collection macros, and helper routines. |
-| **[sitemapper](https://github.com/skywalker-labs/sitemapper)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![XML](https://img.shields.io/badge/SEO-Sitemaps-green?style=flat-square) | Framework-agnostic XML, HTML, and Google News sitemap generator with non-blocking streaming capabilities for 50,000+ indexed URLs. |
-| **[enum](https://github.com/skywalker-labs/enum)** | ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square) ![Type-Safe](https://img.shields.io/badge/Strict-Types-blueviolet?style=flat-square) | Type-safe Enumeration foundation for PHP and Laravel with singleton constants, array serialization, and database attribute casting. |
+| **[log-viewer](https://github.com/skywalker-labs/log-viewer)** | ![Laravel](https://img.shields.io/badge/Laravel-Logs-FF2D20?style=flat-square) ![Tailwind](https://img.shields.io/badge/Tailwind-Dashboard-38B2AC?style=flat-square) | **Interactive real-time Laravel Log Viewer & error monitoring dashboard** — full-text log search, stack trace debugging, file filtering, and RBAC security. |
+| **[toolkit](https://github.com/skywalker-labs/toolkit)** | ![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat-square) ![PSR-4](https://img.shields.io/badge/PSR-4%20Standard-blue?style=flat-square) | **Core developer toolkit & architectural utilities for Laravel** — standardized JSON API response facades, collection macros, and micro-optimization helpers. |
+| **[sitemapper](https://github.com/skywalker-labs/sitemapper)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![XML](https://img.shields.io/badge/SEO-Sitemaps-green?style=flat-square) | **High-performance XML, HTML & Google News sitemap generator** for PHP and Laravel with non-blocking streaming support for 50,000+ indexed URLs. |
+| **[enum](https://github.com/skywalker-labs/enum)** | ![PHP](https://img.shields.io/badge/PHP-8.1+-777BB4?style=flat-square) ![Type-Safe](https://img.shields.io/badge/Strict-Types-blueviolet?style=flat-square) | **Type-safe Enumeration library for PHP 8.1+ & Laravel** — singleton constant management, array conversions, and Eloquent database attribute casting. |
 
 ### 🌐 Telemetry, Geolocation & Autonomous AI
 
 | Package | Tech Stack | Architecture & Capabilities |
 | :--- | :--- | :--- |
-| **[footprints](https://github.com/skywalker-labs/footprints)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![Analytics](https://img.shields.io/badge/Attribution-UTM-yellow?style=flat-square) | Lightweight visitor attribution and conversion funnel tracker for Laravel, capturing UTM campaign parameters and referrers. |
-| **[omniLocate](https://github.com/skywalker-labs/omniLocate)** | ![Laravel](https://img.shields.io/badge/Laravel-GeoIP-FF2D20?style=flat-square) ![Spatial](https://img.shields.io/badge/Location-Resolution-blue?style=flat-square) | Multi-driver IP geolocation and spatial resolution library featuring automatic service fallback, rate-limit guards, and Redis caching. |
-| **[roo-code](https://github.com/skywalker-labs/roo-code)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![AI](https://img.shields.io/badge/AI-Agentic%20Coding-9D4EDD?style=flat-square) | Autonomous AI coding assistant environment integrating LLM tool-calling, multi-context prompt orchestration, and autonomous execution. |
+| **[footprints](https://github.com/skywalker-labs/footprints)** | ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?style=flat-square) ![Analytics](https://img.shields.io/badge/Attribution-UTM-yellow?style=flat-square) | **Lightweight visitor attribution & marketing analytics tracking for Laravel** — seamlessly captures UTM campaign parameters, referrers, and signup cookies. |
+| **[omniLocate](https://github.com/skywalker-labs/omniLocate)** | ![Laravel](https://img.shields.io/badge/Laravel-GeoIP-FF2D20?style=flat-square) ![Spatial](https://img.shields.io/badge/Location-Resolution-blue?style=flat-square) | **Multi-driver IP geolocation & spatial address resolution library for Laravel** — automatic service failover, rate-limit protection, and Redis caching. |
+| **[roo-code](https://github.com/skywalker-labs/roo-code)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![AI](https://img.shields.io/badge/AI-Agentic%20Coding-9D4EDD?style=flat-square) | **Autonomous AI coding assistant & agentic development tool** — integrates LLM tool-calling, multi-context prompt orchestration, and autonomous execution. |
 
 ---
 
